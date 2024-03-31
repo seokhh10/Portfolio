@@ -5,33 +5,30 @@
     box-sizing: border-box;
 }
 
-body {
+header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: black;
-    color: white;
+    color: #ffffff;
 }
 
-#header { 
-    width: 100%;
-    height: 100vh;
-    background-image: url(/assets/images/eth.png);
-    background-size: cover;
-    background-position: center;   
+
+header h1 {
+    display: inline-block;
+    font-size: 48px;
 }
 
-.container {
-    padding: 10px 10%;
+header h1 .hh{
+    color: red;
 }
 
-nav { 
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    flex-wrap: wrap;
-}
 
-.logo {
-    width: 140px;
-
+header nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
 }
 
 nav ul li{
@@ -61,3 +58,18 @@ nav ul li a::after{
 nav ul li a:hover::after{
     width: 100%;
 }
+
+/*fondo*/
+
+.fondo {
+    background-image: url("../images/technological.jpg");
+    height: 200px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-size: cover;
+    background-position: center;
+    color: aliceblue;
+}
+
+
+
