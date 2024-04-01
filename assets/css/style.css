@@ -68,8 +68,21 @@ nav ul li a:hover::after{
     margin-bottom: 25px;
     background-size: cover;
     background-position: center;
-    color: aliceblue;
+    display: flex;
+    justify-content: right;
+    flex-wrap: wrap;
+    align-items: flex-start;
 }
 
-
+.fondo h1 {
+    width: 35%;
+    margin: 7% 0;
+    padding: 0;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    line-height: 1.5;
+    background-color: rgb(3, 49, 78);
+                  
+    }  
 
