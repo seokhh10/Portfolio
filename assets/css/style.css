@@ -5,6 +5,12 @@
     box-sizing: border-box;
 }
 
+body {
+    color: #d5ee92;
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: black;
+    }
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -82,7 +88,52 @@ nav ul li a:hover::after{
     color: white;
     font-size: 30px;
     line-height: 1.5;
-    background-color: rgb(3, 49, 78);
+    background-color: 
                   
     }  
 
+    .me {
+        margin: 50px;
+        padding-bottom: 50px;
+        width: 80%;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: left;
+        justify-content: space-between; 
+    }
+    
+    .me h3 {
+        color: white;
+        font-size: 46px;
+        flex: 1 30%;
+        float: none;
+        margin-left: 10px;
+               
+    }
+    
+    #about-me {
+        text-align: right;
+        margin-right: 10px;
+    }
+   
+    #work {
+        text-align: right;
+        margin-right: 10px;
+    }
+
+    #contact-me {
+        text-align: right;
+        margin-right: 10px;
+    }
+
+    .left-text {
+        flex: 20;
+        border-left: 3px solid red;
+        padding-left: 20px;
+    }
+    
+    .left-text p {
+        color: white;
+        font-size: 18px;
+        margin-left: 10px;
+    }
