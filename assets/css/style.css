@@ -81,14 +81,14 @@ nav ul li a:hover::after{
 }
 
 .fondo h1 {
-    width: 35%;
+    width: 20%;
     margin: 7% 0;
     padding: 0;
     text-align: center;
     color: white;
-    font-size: 30px;
+    font-size: 25px;
     line-height: 1.5;
-    background-color: 
+    background-color: rgba(30, 30, 131, .4)  
                   
     }  
 
@@ -136,4 +136,11 @@ nav ul li a:hover::after{
         color: white;
         font-size: 18px;
         margin-left: 10px;
+    }
+
+
+    @media screen and (min-width: 1060px) {
+        #fix-alignment {
+            margin-bottom: 360px;
+        }
     }
