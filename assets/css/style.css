@@ -86,7 +86,7 @@ nav ul li a:hover::after{
     padding: 0;
     text-align: center;
     color: white;
-    font-size: 25px;
+    font-size: px;
     line-height: 1.5;
     background-color: rgba(30, 30, 131, .4)  
                   
@@ -114,18 +114,21 @@ nav ul li a:hover::after{
     #about-me {
         text-align: right;
         margin-right: 10px;
+        margin-left: -70px;
     }
    
     #work {
         text-align: right;
         margin-right: 10px;
+        margin-left: -70px;
     }
 
     #contact-me {
         text-align: right;
         margin-right: 10px;
+        margin-left: -70px;
     }
-
+/*red line*/
     .left-text {
         flex: 20;
         border-left: 3px solid red;
@@ -137,7 +140,23 @@ nav ul li a:hover::after{
         font-size: 18px;
         margin-left: 10px;
     }
+/*here containes style for projects*/
+.project {
+    margin: 40px;
+    background: grey;
+    flex: 1;
+    border: solid darkblue 3px;
+    border-bottom: 3px; 
+}
 
+.project img {
+    width: 100%;
+    opacity: 1;
+}
+
+.project img:hover  {
+    opacity: 0.5;
+}
 
     @media screen and (min-width: 1060px) {
         #fix-alignment {
