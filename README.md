@@ -1,6 +1,6 @@
 # ErnestoH.H. Website
 
-This repository contains the code for the ErnestoH.H. website, which showcases information about Ernesto Hidalgo and his work.
+This repository contains the code for the ErnestoH.H. website, which showcases information about me and my work.
 
 ## Contents
 
