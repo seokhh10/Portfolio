@@ -40,7 +40,7 @@ header nav {
 nav ul li{
     display: inline-block;
     list-style: none;
-    margin: 10px 20px;
+    margin-left: 80px;
 }
 
 nav ul li a{
@@ -162,6 +162,11 @@ nav ul li a:hover::after{
     opacity: 0.1;
 }
 
+@media screen and (min-width: 1060px) {
+    #fix-alignment {
+        margin-bottom: 360px;
+    }
+}
 /*
 .project {
     margin: 40px;
@@ -179,19 +184,4 @@ nav ul li a:hover::after{
     flex-wrap: wrap;
     justify-content: space-around;
 }
-.project img {
-    
-    width: 100%;
-    opacity: 1;
-}
 
-.project img:hover  {
-    opacity: 0.1;
-}
-
-
-    @media screen and (min-width: 1060px) {
-        #fix-alignment {
-            margin-bottom: 360px;
-        }
-    }
