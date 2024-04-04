@@ -162,6 +162,15 @@ nav ul li a:hover::after{
     opacity: 0.1;
 }
 
+ /* Inside projects */
+ .text-block {
+    bottom: 15px;
+    background-color: rgb(4, 4, 87,.6);
+    color: #6d6b62;
+    
+  }
+
+
 @media screen and (min-width: 1060px) {
     #fix-alignment {
         margin-bottom: 360px;
