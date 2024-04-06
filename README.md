@@ -27,7 +27,7 @@ In the "Work" section, you can find links to my projects. These projects are sho
    [View Project](https://seokhh10.github.io/horiseon-hw/)
 
 3. **Demo First Day**: A demo website project.
-   ![Demo First Day](assets/images/NewWebsite.png)
+   ![Demo First Day](assets/images/SEO.jpg)
    [View Project](https://seokhh10.github.io/demofirstday/)
 
 ## Contact Me
