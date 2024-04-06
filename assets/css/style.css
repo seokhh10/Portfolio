@@ -161,18 +161,13 @@ nav ul li a:hover::after{
     display: flex;
 
 }
-/*.project img {
-    width: 100px;
-    height: 100px;
-    margin-right: 10px;
-}*/
-
+/*size of the images*/
 .big-image {
     width: 100%;
     height:auto;
 }
 .small-image {
-    width:100%;
+    width: 100%;
     height: auto;
 }
 
@@ -182,8 +177,9 @@ nav ul li a:hover::after{
 
  /* Inside projects */
  .text-block {
-    bottom: 15px;
-    background-color: rgb(4, 4, 87,.6);
+    position: relative;
+    bottom: 79px;
+    background-color: rgb(22, 0, 189, );
     color: #6d6b62;
     
   }
