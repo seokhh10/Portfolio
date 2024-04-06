@@ -24,7 +24,7 @@ header h1 {
     font-size: 48px;
 }
 
-header h1 .hh{
+header h1 .hh a{
     color: red;
 }
 
