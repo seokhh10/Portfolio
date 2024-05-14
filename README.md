@@ -19,12 +19,12 @@ In the "Work" section, you can find links to my projects. These projects are sho
 ### Projects
 
    <img src="assets/images/bluelogo.png" alt="Image Description" width="200" height="200">
- **Rate Radar**
-   [View Project](https://seokhh10.github.io/Rate-Radar/)
+ Rate Radar
+  (https://seokhh10.github.io/Rate-Radar/)
 
- **Prework Study Guide**
    <img src="assets/images/bowtie-cat.png" alt="Image Description" width="200" height="200">
-   [View Project](https://seokhh10.github.io/prework-study-guide/)
+ Prework Study Guide
+   (https://seokhh10.github.io/prework-study-guide/)
 
  **Horiseon Marketing**:
    <img src="assets/images/social-media-marketing.jpg" alt="Image Description" width="200" height="200">
