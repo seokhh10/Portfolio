@@ -19,8 +19,8 @@ In the "Work" section, you can find links to my projects. These projects are sho
 ### Projects
 
 1. **Prework Study Guide**: A study guide project.
-   ![Prework Study Guide](assets/images/bowtie-cat.png)
-   [View Project](https://seokhh10.github.io/prework-study-guide/)
+   ![Prework Study Guide]<img src="assets/images/bowtie-cat.png" alt="Image Description" width="100" height="100">
+   
 
 2. **Horiseon Marketing HW**: A marketing website project.
    ![Horiseon Marketing HW](assets/images/social-media-marketing.jpg)
