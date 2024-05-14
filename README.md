@@ -18,12 +18,12 @@ In the "Work" section, you can find links to my projects. These projects are sho
 
 ### Projects
 
-1. **Prework Study Guide**: A study guide project.
+1. **Prework Study Guide**
    <img src="assets/images/bowtie-cat.png" alt="Image Description" width="200" height="200">
    
 
 2. **Horiseon Marketing HW**: A marketing website project.
-   ![Horiseon Marketing HW](assets/images/social-media-marketing.jpg)
+   ![Horiseon Marketing HW]<img src="assets/images/social-media-marketing.jpg" alt="Image Description" width="200" height="200">
    [View Project](https://seokhh10.github.io/horiseon-hw/)
 
 3. **Demo First Day**: A demo website project.
