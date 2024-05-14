@@ -19,7 +19,6 @@ In the "Work" section, you can find links to my projects. These projects are sho
 ### Projects
 
 1. **Prework Study Guide**: A study guide project.
-   ![Prework Study Guide]
    <img src="assets/images/bowtie-cat.png" alt="Image Description" width="200" height="200">
    
 
