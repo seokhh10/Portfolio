@@ -18,8 +18,8 @@ In the "Work" section, you can find links to my projects. These projects are sho
 
 ### Projects
 
- **Rate Radar**
    <img src="assets/images/bluelogo.png" alt="Image Description" width="200" height="200">
+ **Rate Radar**
    [View Project](https://seokhh10.github.io/Rate-Radar/)
 
  **Prework Study Guide**
