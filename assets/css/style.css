@@ -104,10 +104,11 @@ nav ul li a:hover::after{
     
     .me h3 {
         color: white;
-        font-size: 46px;
+        font-size: 25px;
         flex: 1 30%;
         float: none;
         margin-left: 10px;
+        text-align: center;
                
     }
     
@@ -143,13 +144,21 @@ nav ul li a:hover::after{
 /*here containers style for projects*/
 
 .project {
-    display: flex-wrap;
+    display: flex;
+    justify-content: center; /* Centering items horizontally */
+    align-items: center; /* Centering items vertically */
     flex-wrap: wrap;
-    
     margin: 5px;
-    
     border: 1px solid black;
 }
+
+.project img {
+    width: 300px; /* Adjust as needed */
+    height: 300px; /* Adjust as needed */
+    border-radius: 50%; /* Make the images round */
+    margin: 5px; /*Adjust margin between images */
+}
+
 .d-flex-projects {
     display: flex ;
     justify-content: space-evenly;
@@ -163,11 +172,11 @@ nav ul li a:hover::after{
 }
 /*size of the images*/
 .big-image {
-    width: 100%;
+    width: 80%;
     height:auto;
 }
 .small-image {
-    width: 100%;
+    width: 90%;
     height: auto;
 }
 
