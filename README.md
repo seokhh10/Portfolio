@@ -26,13 +26,13 @@ In the "Work" section, you can find links to my projects. These projects are sho
  Prework Study Guide
    (https://seokhh10.github.io/prework-study-guide/)
 
- **Horiseon Marketing**:
    <img src="assets/images/social-media-marketing.jpg" alt="Image Description" width="200" height="200">
-   [View Project](https://seokhh10.github.io/horiseon-hw/)
+ Horiseon Marketing
+   (https://seokhh10.github.io/horiseon-hw/)
 
- **Demo First Day**: 
    <img src="assets/images/SEO.jpg" alt="Image Description" width="200" height="200">
-   [View Project](https://seokhh10.github.io/demofirstday/)
+ Demo First Day
+   (https://seokhh10.github.io/demofirstday/)
 
 ## Contact Me
 
